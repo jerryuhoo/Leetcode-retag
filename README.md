@@ -48,30 +48,30 @@
 
 ###### 简单：
 
-- [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
-- [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
-- [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
-- [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
-- [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
-- [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
-- [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
+- [~~206. 反转链表~~](https://leetcode-cn.com/problems/reverse-linked-list/)
+- [~~141. 环形链表~~](https://leetcode-cn.com/problems/linked-list-cycle/)
+- [~~83. 删除排序链表中的重复元素~~](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
+- [~~234. 回文链表~~](https://leetcode-cn.com/problems/palindrome-linked-list/)
+- [~~203. 移除链表元素~~](https://leetcode-cn.com/problems/remove-linked-list-elements/)
+- [~~237. 删除链表中的节点~~](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+- [~~876. 链表的中间结点~~](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 
 ###### 中等
 
-- [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
-- [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/)
-- [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
-- [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
-- [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
-- [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/)
-- [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)
-- [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
-- [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
+- [~~92. 反转链表 II~~](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+- [~~143. 重排链表~~](https://leetcode-cn.com/problems/reorder-list/)
+- [~~82. 删除排序链表中的重复元素 II~~](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+- [~~19. 删除链表的倒数第 N 个结点~~](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+- [~~148. 排序链表~~](https://leetcode-cn.com/problems/sort-list/)
+- [~~86. 分隔链表~~](https://leetcode-cn.com/problems/partition-list/)
+- [~~61. 旋转链表~~](https://leetcode-cn.com/problems/rotate-list/)
+- [~~142. 环形链表 II~~](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+- [~~147. 对链表进行插入排序~~](https://leetcode-cn.com/problems/insertion-sort-list/)
 - [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
-- [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
-- [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
+- [~~24. 两两交换链表中的节点~~](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+- [~~328. 奇偶链表~~](https://leetcode-cn.com/problems/odd-even-linked-list/)
 - [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/)
-- [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
+- [~~109. 有序链表转换二叉搜索树~~](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
 - [430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)
 - [725. 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/)
 
@@ -82,14 +82,14 @@
 
 ###### 简单：
 
-- [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
-- [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+- [~~21. 合并两个有序链表~~](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+- [~~160. 相交链表~~](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 
 ###### 中级
 
-- [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
-- [445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/)
-- [1669. 合并两个链表](https://leetcode-cn.com/problems/merge-in-between-linked-lists/)
+- [~~2. 两数相加~~](https://leetcode-cn.com/problems/add-two-numbers/)
+- [~~445. 两数相加 II~~](https://leetcode-cn.com/problems/add-two-numbers-ii/)
+- [~~1669. 合并两个链表~~](https://leetcode-cn.com/problems/merge-in-between-linked-lists/)
 
 ###### 困难
 
@@ -101,22 +101,22 @@
 
 ###### 简单
 
-- [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
-- [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
-- [589. N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)
-- [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
-- [590. N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)
+- [~~145. 二叉树的后序遍历~~](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+- [~~94. 二叉树的中序遍历~~](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+- [~~589. N 叉树的前序遍历~~](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)
+- [~~144. 二叉树的前序遍历~~](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+- [~~590. N 叉树的后序遍历~~](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)
 
 ###### 中等
 
-- [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
-- [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
-- [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
+- [~~102. 二叉树的层序遍历~~](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+- [~~103. 二叉树的锯齿形层序遍历~~](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [~~107. 二叉树的层序遍历 II~~](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
 
 #### 构造
 
 ###### 简单
-- [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
+- [~~108. 将有序数组转换为二叉搜索树~~](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 ###### 中等
 - [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
@@ -132,7 +132,7 @@
 
 ###### 简单
 
-- [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+- [~~104. 二叉树的最大深度~~](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 - [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 - [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
 - [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
@@ -165,11 +165,11 @@
 
 ###### 简单
 
-- [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
+- [~~108. 将有序数组转换为二叉搜索树~~](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 ###### 中等
 
-- [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+- [~~98. 验证二叉搜索树~~](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 - [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
 - [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
 - [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
