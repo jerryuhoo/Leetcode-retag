@@ -93,7 +93,7 @@
 
 ###### 困难
 
-- [23. 合并 K 个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+- [~~23. 合并 K 个升序链表~~](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 
 ## 𐀴 树
 
@@ -119,7 +119,7 @@
 - [~~108. 将有序数组转换为二叉搜索树~~](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 ###### 中等
-- [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [~~105. 从前序与中序遍历序列构造二叉树~~](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 - [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
 - [889. 根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
