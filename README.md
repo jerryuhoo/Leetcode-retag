@@ -154,9 +154,9 @@
 - [~~129. 求根节点到叶节点数字之和~~](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
 - [~~662. 二叉树最大宽度~~](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/)
     * 广度优先，队列中同时存入root，depth，pos
-- [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
-- [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
-- [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
+- [~~114. 二叉树展开为链表~~](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
+- [~~199. 二叉树的右视图~~](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
+- [~~116. 填充每个节点的下一个右侧节点指针~~](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
 - [515. 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)
 
 ###### 困难
