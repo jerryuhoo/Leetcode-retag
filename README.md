@@ -157,11 +157,11 @@
 - [~~114. 二叉树展开为链表~~](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
 - [~~199. 二叉树的右视图~~](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
 - [~~116. 填充每个节点的下一个右侧节点指针~~](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
-- [515. 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)
+- [~~515. 在每个树行中找最大值~~](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)
 
 ###### 困难
 
-- [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
+- [~~124. 二叉树中的最大路径和~~](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
 - [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
 
 #### 二叉搜索树
